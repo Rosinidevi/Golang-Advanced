@@ -1,0 +1,4 @@
+INFO: Server launched without issues
+ERROR: Unable to connect to the database
+INFO: Request handled successfully
+ERROR: Request timed out during processing
